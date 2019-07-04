@@ -4,7 +4,9 @@
 #include <stdio.h>
 #include <string.h>
 #include <iostream>
-#define PI 3.14152653597689786 #define RandomFactor 2.0 #define ESCAPE 27
+#define PI 3.14152653597689786 
+#define RandomFactor 2.0 
+#define ESCAPE 27
 #define TEXTID 3
 unsigned int i;
 int flag=0,f=2;
